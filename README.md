@@ -25,9 +25,15 @@ The papers are divided into three categories based on their goals: Architecture 
 - [ISCAS'20] [Model reverse-engineering attack using correlation power analysis against systolic array based neural network accelerator.](https://ieeexplore.ieee.org/document/9180580)
 - [TRANS-A'21] [Model Reverse-Engineering Attack against Systolic-Array-Based DNN Accelerator Using Correlation Power Analysis](https://www.jstage.jst.go.jp/article/transfun/E104.A/1/E104.A_2020CIP0024/_article/-char/ja/)
 - [ISCAS'21] [Extraction of Binarized Neural Network Architecture and Secret Parameters Using Side-Channel Information](https://ieeexplore.ieee.org/document/9401626)
+- [IoT-J'21] [Leaky Nets: Recovering Embedded Neural Network Models and Inputs Through Simple Power and Timing Side-Channels—Attacks and Defenses](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9360858)
 - [JETC'22] [Power-based attacks on spatial DNN accelerators.](https://dl.acm.org/doi/10.1145/3491219)
 - [CARDIS'22] [A Practical Introduction to Side-Channel Extraction of Deep Neural Network Parameters](https://link.springer.com/chapter/10.1007/978-3-031-25319-5_3)
 - [SP'24] [Side-Channel-Assisted Reverse-Engineering of Encrypted DNN Hardware Accelerator IP and Attack Surface Exploration](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a001/1RjE9FWOWsw)
 - [USENIX'25] [BarraCUDA: Edge GPUs do Leak DNN Weights](https://arxiv.org/abs/2312.07783)
 
 # Input recovery
+- [ACSAC'18] [I Know What You See: Power Side-Channel Attack on Convolutional Neural Network Accelerators](https://dl.acm.org/doi/10.1145/3274694.3274696)
+- [SIGSAC'19] [Poster: Recovering the input of neural networks via single shot side-channel attacks.](https://dl.acm.org/doi/10.1145/3319535.3363280)
+- [SmartIoT'19] [Floating-Point Multiplication Timing Attack on Deep Neural Network](https://ieeexplore.ieee.org/document/8896403)
+- [IoT-J'21] [Leaky Nets: Recovering Embedded Neural Network Models and Inputs Through Simple Power and Timing Side-Channels—Attacks and Defenses](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9360858)
+- [ARES'23] [You Only Get One-Shot: Eavesdropping Input Images to Neural Network by Spying SoC-FPGA Internal Bus](https://dl.acm.org/doi/abs/10.1145/3600160.3600189)
