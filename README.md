@@ -38,3 +38,14 @@ The papers are divided into three categories based on their goals: Architecture 
 - [SmartIoT'19] [Floating-Point Multiplication Timing Attack on Deep Neural Network](https://ieeexplore.ieee.org/document/8896403)
 - [IoT-J'21] [Leaky Nets: Recovering Embedded Neural Network Models and Inputs Through Simple Power and Timing Side-Channels—Attacks and Defenses](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9360858)
 - [ARES'23] [You Only Get One-Shot: Eavesdropping Input Images to Neural Network by Spying SoC-FPGA Internal Bus](https://dl.acm.org/doi/abs/10.1145/3600160.3600189)
+
+
+```
+@inproceedings{horvath2024sok,
+  title={SoK: Neural Network Extraction Through Physical Side Channels},
+  author={Horv{\'a}th, P{\'e}ter and Lauret, Dirk and Liu, Zhuoran and Batina, Lejla},
+  year={2024},
+  booktitle={USENIX Security}
+}
+```
+
