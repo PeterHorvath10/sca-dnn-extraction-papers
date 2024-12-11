@@ -18,6 +18,7 @@ The papers are divided into three categories based on their goals: Architecture 
 - [SENSORS'23] [SNATCH: Stealing neural network architecture from ML accelerator in intelligent sensors](https://ieeexplore.ieee.org/document/10324872)
 - [AIHWS'24] [CNN Architecture Extraction on Edge GPU](https://link.springer.com/chapter/10.1007/978-3-031-61486-6_10)
 - [SP'24] [Side-Channel-Assisted Reverse-Engineering of Encrypted DNN Hardware Accelerator IP and Attack Surface Exploration](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a001/1RjE9FWOWsw)
+- [CHES'24] [TPUXtract: An Exhaustive HyperparameterExtraction Framework](https://tches.iacr.org/index.php/TCHES/article/view/11923/11782)
 # Parameter extraction
 - [USENIX'19] [Reverse engineering of neural network architectures through electromagnetic side channel.](https://www.usenix.org/conference/usenixsecurity19/presentation/batina)
 - [ICCAD'20] [Machine Learning and Hardware security: Challenges and Opportunities](https://ieeexplore.ieee.org/document/9256522)
