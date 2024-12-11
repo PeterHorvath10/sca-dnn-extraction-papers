@@ -1,6 +1,9 @@
 # Physical Side Channel Attacks on Neural Networks
-Collection of papers about Deep Neural Network model extraction through Physical Side Channels.
-The papers are divided into three categories based on their goals: Architecture extraction, Parameter extraction, and Input recovery.
+Collection of papers on Deep Neural Network model extraction through Physical Side Channels. 
+
+This collection is *regularly updated*, starting with the initial version featured in our paper: [SoK: Neural Network Extraction Through Physical Side Channels](https://www.usenix.org/conference/usenixsecurity24/presentation/horvath). Péter Horváth, Dirk Lauret, Zhuoran Liu, and Lejla Batina. 
+
+Listed papers are divided into three categories based on their goals: Architecture extraction, Parameter extraction, and Input recovery.
 
 # Architecture extraction
 - [USENIX'19] [Reverse engineering of neural network architectures through electromagnetic side channel.](https://www.usenix.org/conference/usenixsecurity19/presentation/batina)
