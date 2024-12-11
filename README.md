@@ -43,12 +43,4 @@ Listed papers are divided into three categories based on their goals: Architectu
 - [ARES'23] [You Only Get One-Shot: Eavesdropping Input Images to Neural Network by Spying SoC-FPGA Internal Bus](https://dl.acm.org/doi/abs/10.1145/3600160.3600189)
 
 
-```
-@inproceedings{horvath2024sok,
-  title={SoK: Neural Network Extraction Through Physical Side Channels},
-  author={Horv{\'a}th, P{\'e}ter and Lauret, Dirk and Liu, Zhuoran and Batina, Lejla},
-  year={2024},
-  booktitle={USENIX Security}
-}
-```
 
